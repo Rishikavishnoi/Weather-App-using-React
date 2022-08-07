@@ -24,6 +24,7 @@ export default function Box() {
           <input
             type="search"
             className="inputFeild"
+            placeholder="Enter City Name"
             value={search}
             onChange={(event) => {
               setSearch(event.target.value);
