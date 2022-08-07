@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "homepage": "https://Rishikavishnoi.github.io/Weather-App-using-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
